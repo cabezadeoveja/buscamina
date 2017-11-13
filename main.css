@@ -1,0 +1,46 @@
+body{
+	text-align: center; //para que vaya centrado
+}
+
+div{
+	border: solid 1px black;
+	text-align: center;
+	font-size: 40px;
+	height: 80px;
+	width: 80px;
+	display: table-cell;  //cada elemento que va a crear lo pondra uno al lado del otro
+}
+
+#bomb-it{
+	margin-left: 37.3%;
+
+}
+
+h1{
+	font-family: 'Karla', sans-serif; 
+	color: pink;
+}
+
+.number{
+	margin: 0;
+	color: white;
+}
+
+.numberShow{
+	margin: 0;
+	color: pink;
+}
+
+img{
+	width: 350px;
+	margin: 2% 35%;
+}
+
+button{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+	padding: 1%;
+	border: none;
+}
